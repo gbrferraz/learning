@@ -1,9 +1,4 @@
 #include "SDL2/SDL.h"
-#include <SDL2/SDL_error.h>
-#include <SDL2/SDL_events.h>
-#include <SDL2/SDL_pixels.h>
-#include <SDL2/SDL_surface.h>
-#include <SDL2/SDL_video.h>
 #include <stdio.h>
 
 const int SCREEN_WIDTH = 640;
